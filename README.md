@@ -1,2 +1,2 @@
 # TheSmallestWordProcessor
-A word processor, and 160 bytes.
+A word processor, and (now) 160 bytes.
