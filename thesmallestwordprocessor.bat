@@ -8,8 +8,5 @@ copy con %fileName%
 :start
 echo.
 set /p input=
-if "%input%" == "exit" goto end
 echo %input% >> %fileName%
 goto start
-
-:end
